@@ -80,4 +80,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3748-sort-matrix-by-diagonals](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
+## Depth-First Search
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0871-keys-and-rooms) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0871-keys-and-rooms) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
