@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0190-reverse-bits) |
 | [0342-power-of-four](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0342-power-of-four) |
 ## Greedy
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0190-reverse-bits) |
 ## Matrix
 |  |
 | ------- |
