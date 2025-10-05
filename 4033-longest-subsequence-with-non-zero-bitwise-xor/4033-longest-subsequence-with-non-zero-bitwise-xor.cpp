@@ -15,6 +15,6 @@ public:
         if (zeros)
             return 0;
 
-        return xorVal != 0 ? nums.size() : nums.size() - 1;
+        return xorVal != 0 ? n : n - 1;
     }
 };
