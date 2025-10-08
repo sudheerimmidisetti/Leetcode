@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2117-find-original-array-from-doubled-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0907-koko-eating-bananas](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1018-largest-perimeter-triangle](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [2117-find-original-array-from-doubled-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Depth-First Search
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0018-4sum) |
 | [0165-compare-version-numbers](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0165-compare-version-numbers) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Brainteaser
 |  |
 | ------- |
