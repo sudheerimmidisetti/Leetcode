@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0022-generate-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 <!---LeetCode Topics End-->
