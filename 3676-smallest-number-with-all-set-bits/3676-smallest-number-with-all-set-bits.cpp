@@ -1,13 +1,10 @@
 class Solution {
 public:
     int smallestNumber(int n) {
-        while ((floor(log2(n)) + 1) != __builtin_popcount(n)) {
-            n++;
-
-            if ((floor(log2(n)) + 1) == __builtin_popcount(n))
-                return n;
-        }
-
-        return n;
+        int x = 1;
+        while (x <= n)
+            x <<= 1;
+        
+        return x - 1;
     }
 };
