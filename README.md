@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0022-generate-parentheses) |
 | [0165-compare-version-numbers](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0120-triangle) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0018-4sum) |
 | [0165-compare-version-numbers](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0165-compare-version-numbers) |
