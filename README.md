@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1018-largest-perimeter-triangle](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1448-maximum-69-number) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2117-find-original-array-from-doubled-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2487-optimal-partition-of-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2487-optimal-partition-of-string) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2117-find-original-array-from-doubled-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Simulation
 |  |
 | ------- |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
 |  |
@@ -256,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2169-simple-bank-system](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2169-simple-bank-system) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 <!---LeetCode Topics End-->
