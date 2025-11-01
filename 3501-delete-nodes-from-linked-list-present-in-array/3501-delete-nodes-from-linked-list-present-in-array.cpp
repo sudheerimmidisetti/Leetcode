@@ -13,7 +13,7 @@ public:
     ListNode* modifiedList(vector<int>& nums, ListNode* head) {
         ListNode* dummy = head;
 
-        vector<int> arr, arr2;
+        vector<int> arr;
         while (dummy) {
             arr.push_back(dummy->val);
             dummy = dummy->next;
