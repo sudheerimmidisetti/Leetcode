@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2117-find-original-array-from-doubled-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2487-optimal-partition-of-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2487-optimal-partition-of-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Linked List
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
