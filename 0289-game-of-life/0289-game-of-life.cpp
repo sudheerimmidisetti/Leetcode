@@ -7,7 +7,7 @@ public:
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 int cnt = 0;
-                
+
                 if (i > 0 && j > 0 && tmp[i - 1][j - 1] == 1)
                     cnt++;
                 if (i > 0 && tmp[i - 1][j] == 1)
