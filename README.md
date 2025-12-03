@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0054-spiral-matrix) |
 | [0120-triangle](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0198-house-robber) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0498-diagonal-traverse) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1603-design-parking-system](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1642-water-bottles) |
