@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1603-design-parking-system](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1642-water-bottles) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2169-simple-bank-system) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
