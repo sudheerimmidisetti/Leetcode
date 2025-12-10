@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0830-largest-triangle-area](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0946-validate-stack-sequences](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1018-largest-perimeter-triangle](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1094-car-pooling](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1094-car-pooling) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0946-validate-stack-sequences](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1094-car-pooling](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1094-car-pooling) |
 | [1603-design-parking-system](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1642-water-bottles) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0946-validate-stack-sequences](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Number Theory
