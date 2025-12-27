@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1917-maximum-average-pass-ratio](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [1929-concatenation-of-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2117-find-original-array-from-doubled-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1094-car-pooling) |
 | [1603-design-parking-system](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1642-water-bottles) |
+| [1929-concatenation-of-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2169-simple-bank-system) |
