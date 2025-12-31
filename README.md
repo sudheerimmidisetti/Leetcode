@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0930-binary-subarrays-with-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0946-validate-stack-sequences](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [0948-bag-of-tokens](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0948-bag-of-tokens) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0840-magic-squares-in-grid](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0840-magic-squares-in-grid) |
+| [0930-binary-subarrays-with-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2117-find-original-array-from-doubled-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0930-binary-subarrays-with-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1094-car-pooling) |
 | [2625-increment-submatrices-by-one](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2625-increment-submatrices-by-one) |
