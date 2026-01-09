@@ -384,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
