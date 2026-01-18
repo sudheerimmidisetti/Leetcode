@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0342-power-of-four) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0022-generate-parentheses) |
 | [0165-compare-version-numbers](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0944-delete-columns-to-make-sorted](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0013-roman-to-integer) |
 | [0840-magic-squares-in-grid](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0930-binary-subarrays-with-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
