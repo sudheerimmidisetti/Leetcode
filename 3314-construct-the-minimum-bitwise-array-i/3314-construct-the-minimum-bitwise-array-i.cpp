@@ -13,7 +13,9 @@ public:
                     break;
                 }
             }
-            if(found)       res.push_back(-1);
+
+            if(found)
+                res.push_back(-1);
         }
 
         return res;
