@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0002-add-two-numbers) |
 | [0326-power-of-three](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0342-power-of-four) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1094-car-pooling](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1094-car-pooling) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1603-design-parking-system](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1642-water-bottles) |
 | [1929-concatenation-of-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1929-concatenation-of-array) |
