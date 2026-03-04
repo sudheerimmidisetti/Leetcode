@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -456,4 +457,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
