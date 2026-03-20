@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0100-same-tree) |
 | [0871-keys-and-rooms](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0946-validate-stack-sequences](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -454,11 +456,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0100-same-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0100-same-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Database
