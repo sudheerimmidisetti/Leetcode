@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0326-power-of-three) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0043-multiply-strings) |
 | [0165-compare-version-numbers](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0696-count-binary-substrings](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0944-delete-columns-to-make-sorted](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0498-diagonal-traverse) |
