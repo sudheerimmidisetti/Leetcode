@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-water-bottles-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2625-increment-submatrices-by-one](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3379-transformed-array) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
