@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0120-triangle) |
 | [0137-single-number-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0137-single-number-ii) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0374-guess-number-higher-or-lower](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0289-game-of-life](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0840-magic-squares-in-grid) |
