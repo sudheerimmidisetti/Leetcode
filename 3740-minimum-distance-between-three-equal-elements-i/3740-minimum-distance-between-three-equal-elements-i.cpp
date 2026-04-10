@@ -1,0 +1,18 @@
+class Solution {
+public:
+    int minimumDistance(vector<int>& nums) {
+        int n = nums.size();
+
+        int minDist = INT_MAX;
+        for (int i = 0; i < n - 2; i++) {
+            for (int j = i + 1; j < n - 1; j++) {
+                for (int k = j + 1; k < n; k++)
+                    if (nums[i] == nums[j] && nums[i] == nums[k])
+                        minDist =
+                            min(minDist, abs(i - j) + abs(j - k) + abs(k - i));
+            }
+        }
+
+        return minDist == INT_MAX ? -1 : minDist;
+    }
+};
