@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2117-find-original-array-from-doubled-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2625-increment-submatrices-by-one) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2117-find-original-array-from-doubled-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
