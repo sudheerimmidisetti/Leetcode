@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0657-robot-return-to-origin](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0796-rotate-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -571,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
