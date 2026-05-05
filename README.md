@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0075-sort-colors) |
 | [0090-subsets-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0189-rotate-array) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0187-repeated-dna-sequences](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0840-magic-squares-in-grid](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0930-binary-subarrays-with-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -581,4 +583,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0796-rotate-string) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
