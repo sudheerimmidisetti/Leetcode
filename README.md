@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2487-optimal-partition-of-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2487-optimal-partition-of-string) |
+| [2671-frequency-tracker](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2671-frequency-tracker) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -540,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1603-design-parking-system](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1603-design-parking-system) |
 | [2169-simple-bank-system](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2169-simple-bank-system) |
+| [2671-frequency-tracker](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2671-frequency-tracker) |
 ## Monotonic Stack
 |  |
 | ------- |
