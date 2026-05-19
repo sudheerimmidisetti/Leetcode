@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2540-minimum-common-value](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2540-minimum-common-value) |
 | [2625-increment-submatrices-by-one](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2784-check-if-array-is-good](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2784-check-if-array-is-good) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2487-optimal-partition-of-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2540-minimum-common-value](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2540-minimum-common-value) |
 | [2671-frequency-tracker](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2671-frequency-tracker) |
 | [2784-check-if-array-is-good](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2540-minimum-common-value](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2540-minimum-common-value) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0948-bag-of-tokens) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2540-minimum-common-value](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Brainteaser
 |  |
