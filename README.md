@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Greedy
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2540-minimum-common-value](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2540-minimum-common-value) |
 | [2625-increment-submatrices-by-one](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2784-check-if-array-is-good](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2540-minimum-common-value](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2671-frequency-tracker](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2671-frequency-tracker) |
 | [2784-check-if-array-is-good](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
