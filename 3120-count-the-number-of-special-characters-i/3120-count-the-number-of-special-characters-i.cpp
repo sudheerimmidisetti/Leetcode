@@ -5,7 +5,7 @@ public:
 
         int cnt = 0;
         for (char c : word) {
-            if (islower(c) && st.count(c) && st.count(toupper(c))) {
+            if (islower(c) && st.find(c) != st.end() && st.find(toupper(c)) != st.end()) {
                 st.erase(c);
                 cnt++;
             }
