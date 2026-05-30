@@ -26,7 +26,7 @@ public:
     int minDistance(string word1, string word2) {
         int n = word1.size(), m = word2.size();
 
-        vector<vector<int>> dp(n + 1, vector<int>(m + 1, -1));
+        vector<vector<int>> dp(n, vector<int>(m, -1));
 
         return solve(0, 0, word1, word2, dp);
     }
