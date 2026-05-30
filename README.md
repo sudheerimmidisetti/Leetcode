@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0043-multiply-strings) |
+| [0072-edit-distance](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0072-edit-distance) |
 | [0165-compare-version-numbers](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0410-split-array-largest-sum) |
