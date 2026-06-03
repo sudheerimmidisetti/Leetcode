@@ -1,9 +1,6 @@
 class Solution {
 public:
-    int earliestFinishTime(vector<int>& landStartTime,
-                           vector<int>& landDuration,
-                           vector<int>& waterStartTime,
-                           vector<int>& waterDuration) {
+    int earliestFinishTime(vector<int>& landStartTime, vector<int>& landDuration, vector<int>& waterStartTime, vector<int>& waterDuration) {
         int n = landStartTime.size(), m = waterStartTime.size();
 
         int minTime = INT_MAX;
