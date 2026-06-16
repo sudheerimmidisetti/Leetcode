@@ -11,9 +11,9 @@ public:
             else if (c == '%')
                 reverse(res.begin(), res.end());
             else if (!res.empty())
-                    res.pop_back();
+                res.pop_back();
         }
-        
+
         return res;
     }
 };
