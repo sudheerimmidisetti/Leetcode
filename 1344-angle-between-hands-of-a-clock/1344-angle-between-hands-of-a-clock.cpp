@@ -5,7 +5,6 @@ public:
         double hourAngle = hour * 30.0 + minutes * 0.5;
 
         double diff = abs(hourAngle - minuteAngle);
-
         return min(diff, 360.0 - diff);
     }
 };
