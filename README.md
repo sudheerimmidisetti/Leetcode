@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0200-number-of-islands) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0198-house-robber) |
