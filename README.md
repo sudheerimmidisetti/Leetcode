@@ -526,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0200-number-of-islands) |
 | [0871-keys-and-rooms](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0871-keys-and-rooms) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0871-keys-and-rooms](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0871-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Graph
 |  |
 | ------- |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0200-number-of-islands) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Merge Sort
 |  |
 | ------- |
@@ -749,4 +752,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
