@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3265-count-almost-equal-pairs-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3379-transformed-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3379-transformed-array) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3265-count-almost-equal-pairs-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3074-apple-redistribution-into-boxes](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3265-count-almost-equal-pairs-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2833-furthest-point-from-origin](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3265-count-almost-equal-pairs-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3713-longest-balanced-substring-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -684,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3265-count-almost-equal-pairs-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
