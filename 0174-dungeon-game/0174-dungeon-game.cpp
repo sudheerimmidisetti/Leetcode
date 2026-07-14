@@ -14,11 +14,9 @@ public:
                     dungeon[i][j] = max(1, dungeon[i + 1][j] - dungeon[i][j]);
                 else {
                     if (dungeon[i + 1][j] <= dungeon[i][j + 1])
-                        dungeon[i][j] =
-                            max(1, dungeon[i + 1][j] - dungeon[i][j]);
+                        dungeon[i][j] = max(1, dungeon[i + 1][j] - dungeon[i][j]);
                     else
-                        dungeon[i][j] =
-                            max(1, dungeon[i][j + 1] - dungeon[i][j]);
+                        dungeon[i][j] = max(1, dungeon[i][j + 1] - dungeon[i][j]);
                 }
             }
         }
