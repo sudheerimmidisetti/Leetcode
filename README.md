@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 ## Geometry
