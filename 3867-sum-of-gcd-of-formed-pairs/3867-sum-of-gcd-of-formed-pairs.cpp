@@ -8,14 +8,14 @@ public:
         int maxi = 0;
         for (int i = 0; i < n; i++) {
             maxi = max(maxi, nums[i]);
-            prefGcd[i] = std::gcd(maxi, nums[i]);
+            prefGcd[i] = gcd(maxi, nums[i]);
         }
         sort(prefGcd.begin(), prefGcd.end());
 
         long long sum = 0;
         int l = 0, r = n - 1;
         while (l < r) {
-            sum += std::gcd(prefGcd[l], prefGcd[r]);
+            sum += gcd(prefGcd[l], prefGcd[r]);
             l++;
             r--;
         }
