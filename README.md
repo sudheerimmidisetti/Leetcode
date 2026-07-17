@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Linked List
 |  |
 | ------- |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
 | [3838-weighted-word-mapping](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Hash Table
 |  |
 | ------- |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3713-longest-balanced-substring-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
