@@ -4,24 +4,21 @@ public:
         int m = grid.size();
         int n = grid[0].size();
 
-        
-        while (k--) {
-            vector<vector<int>> tmp(m, vector<int>(n));
-            for (int i = 0; i < m; i++) {
-                for (int j = 0; j < n; j++) {
-                    if (j == n - 1) {
-                        if (i == m - 1)
-                            tmp[0][0] = grid[i][j];
-                        else
-                            tmp[i + 1][0] = grid[i][j];
-                    } else
-                        tmp[i][j + 1] = grid[i][j];
-                }
-            }
+        k %= (m * n);
 
-            grid = tmp;
+        vector<vector<int>> res(m, vector<int>(n));
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                int idx = (i * n) + j;
+                int nIdx = (idx + k) % (m * n);
+
+                int r = nIdx / n;
+                int c = nIdx % n;
+
+                res[r][c] = grid[i][j];
+            }
         }
 
-        return grid;
+        return res;
     }
 };
