@@ -4,9 +4,9 @@ public:
         int key, value;
 
         Node *prev, *next;
-        Node(int k, int v) {
-            key = k;
-            value = v;
+        Node(int key, int value) {
+            this->key = key;
+            this->value = value;
 
             prev = nullptr;
             next = nullptr;
