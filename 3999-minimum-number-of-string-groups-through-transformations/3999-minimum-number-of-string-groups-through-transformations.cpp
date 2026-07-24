@@ -26,7 +26,7 @@ public:
     }
 
     int minimumGroups(vector<string>& words) {
-        set<string> groups;
+        unordered_set<string> groups;
 
         for (auto& w : words) {
             string oddString, evenString;
