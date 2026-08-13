@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0400-nth-digit](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0400-nth-digit) |
 | [0486-predict-the-winner](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0788-rotated-digits](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0877-stone-game) |
@@ -520,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0877-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
