@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3265-count-almost-equal-pairs-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3265-count-almost-equal-pairs-i) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
