@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1840-maximum-building-height](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1861-rotating-the-box](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1917-maximum-average-pass-ratio](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1641-count-sorted-vowel-strings](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1872-stone-game-viii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1872-stone-game-viii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Simulation
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1927-sum-game) |
 | [3462-vowels-game-in-a-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Counting
@@ -784,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1094-car-pooling) |
 | [1732-find-the-highest-altitude](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2625-increment-submatrices-by-one](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -923,4 +928,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
+## Minimax
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1872-stone-game-viii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
