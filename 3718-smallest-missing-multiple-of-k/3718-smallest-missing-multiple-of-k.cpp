@@ -1,7 +1,7 @@
 class Solution {
 public:
     int missingMultiple(vector<int>& nums, int k) {
-        set<int>st(nums.begin(), nums.end());
+        set<int> st(nums.begin(), nums.end());
 
         int minVal = INT_MAX;
         for (int i = 1; i <= (k * 101); i++) {
