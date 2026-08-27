@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Linked List
 |  |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -732,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3265-count-almost-equal-pairs-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3713-longest-balanced-substring-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -823,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Design
 |  |
