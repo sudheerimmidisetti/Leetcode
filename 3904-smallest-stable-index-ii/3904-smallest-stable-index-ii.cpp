@@ -3,20 +3,16 @@ public:
     int firstStableIndex(vector<int>& nums, int k) {
         int n = nums.size();
 
-        vector<int> leftMax(n, 0);
+        vector<int> suffMin(n, 0);
 
-        leftMax[0] = nums[0];
-        for (int i = 1; i < n; i++)
-            leftMax[i] = max(leftMax[i - 1], nums[i]);
-
-        vector<int> rightMin(n, 0);
-
-        rightMin[n - 1] = nums[n - 1];
+        suffMin[n - 1] = nums.back();
         for (int i = n - 2; i >= 0; i--)
-            rightMin[i] = min(rightMin[i + 1], nums[i]);
+            suffMin[i] = min(suffMin[i + 1], nums[i]);
 
+        int prefMax = 0;
         for (int i = 0; i < n; i++) {
-            if (leftMax[i] - rightMin[i] <= k)
+            prefMax = max(prefMax, nums[i]);
+            if (prefMax - suffMin[i] <= k)
                 return i;
         }
 
