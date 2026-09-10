@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## String
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0394-decode-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0394-decode-string) |
 | [0433-minimum-genetic-mutation](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0583-delete-operation-for-two-strings](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -768,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0394-decode-string) |
 | [0946-validate-stack-sequences](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0946-validate-stack-sequences) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
