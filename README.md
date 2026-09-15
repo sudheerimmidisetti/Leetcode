@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0223-rectangle-area) |
 | [0326-power-of-three](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0342-power-of-four) |
 | [0400-nth-digit](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0400-nth-digit) |
@@ -793,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0223-rectangle-area) |
 | [0830-largest-triangle-area](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0836-rectangle-overlap) |
 ## Combinatorics
