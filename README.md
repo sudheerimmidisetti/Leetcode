@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3994-minimum-adjacent-swaps-to-partition-array) |
+| [4054-count-shadow-pairs-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/4054-count-shadow-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [4054-count-shadow-pairs-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/4054-count-shadow-pairs-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -881,6 +883,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [4054-count-shadow-pairs-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/4054-count-shadow-pairs-i) |
 ## Tree
 |  |
 | ------- |
