@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0796-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1189-maximum-number-of-balloons](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -801,6 +802,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0394-decode-string) |
 | [0946-validate-stack-sequences](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0946-validate-stack-sequences) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -1012,4 +1014,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0881-boats-to-save-people) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
