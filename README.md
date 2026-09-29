@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-sum-game](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1927-sum-game) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2117-find-original-array-from-doubled-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2117-find-original-array-from-doubled-array) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1917-maximum-average-pass-ratio](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1929-concatenation-of-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1980-find-unique-binary-string) |
