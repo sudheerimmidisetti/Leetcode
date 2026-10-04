@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3904-smallest-stable-index-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3994-minimum-adjacent-swaps-to-partition-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3994-minimum-adjacent-swaps-to-partition-array) |
 | [4054-count-shadow-pairs-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/4054-count-shadow-pairs-i) |
+| [4062-transform-array-using-pair-operations](https://github.com/sudheerimmidisetti/Leetcode/tree/master/4062-transform-array-using-pair-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -770,6 +771,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3462-vowels-game-in-a-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [4062-transform-array-using-pair-operations](https://github.com/sudheerimmidisetti/Leetcode/tree/master/4062-transform-array-using-pair-operations) |
 ## Game Theory
 |  |
 | ------- |
