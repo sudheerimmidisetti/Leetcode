@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -904,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1291-sequential-digits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3265-count-almost-equal-pairs-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
