@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0062-unique-paths) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0187-repeated-dna-sequences) |
