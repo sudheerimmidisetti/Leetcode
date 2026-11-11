@@ -1,7 +1,6 @@
 class Solution {
 public:
-    long long minimumCost(int cost1, int cost2, int costBoth, int need1,
-                          int need2) {
+    long long minimumCost(int cost1, int cost2, int costBoth, int need1, int need2) {
         if (need1 == 0 && need2 == 0)
             return 0;
 
