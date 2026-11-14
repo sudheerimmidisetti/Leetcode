@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3265-count-almost-equal-pairs-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -564,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
 |  |
@@ -952,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2625-increment-submatrices-by-one](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2625-increment-submatrices-by-one) |
+| [3364-minimum-positive-sum-subarray](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
