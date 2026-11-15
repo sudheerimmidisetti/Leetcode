@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1448-maximum-69-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1641-count-sorted-vowel-strings](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1641-count-sorted-vowel-strings) |
 | [1642-water-bottles](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -671,6 +673,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0877-stone-game) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1641-count-sorted-vowel-strings](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1641-count-sorted-vowel-strings) |
@@ -949,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1094-car-pooling) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1872-stone-game-viii) |
