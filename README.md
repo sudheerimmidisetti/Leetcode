@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0394-decode-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0394-decode-string) |
 | [0433-minimum-genetic-mutation](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0583-delete-operation-for-two-strings](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0433-minimum-genetic-mutation](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0523-continuous-subarray-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0840-magic-squares-in-grid](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0840-magic-squares-in-grid) |
