@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0223-rectangle-area) |
 | [0326-power-of-three](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0342-power-of-four) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -914,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -989,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1291-sequential-digits) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -1158,4 +1162,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
