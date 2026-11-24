@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
 |  |
@@ -926,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/sudheerimmidisetti/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3770-largest-prime-from-consecutive-prime-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3770-largest-prime-from-consecutive-prime-sum) |
@@ -1005,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3265-count-almost-equal-pairs-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3265-count-almost-equal-pairs-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
