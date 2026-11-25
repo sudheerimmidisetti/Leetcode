@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0223-rectangle-area) |
 | [0326-power-of-three](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0326-power-of-three) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0433-minimum-genetic-mutation](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0523-continuous-subarray-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -848,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0165-compare-version-numbers](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0202-happy-number) |
 | [0647-palindromic-substrings](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0696-count-binary-substrings) |
@@ -1190,4 +1193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/sudheerimmidisetti/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
