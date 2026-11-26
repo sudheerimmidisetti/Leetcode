@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -730,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3336-water-bottles-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3360-stone-removal-game](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/sudheerimmidisetti/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
