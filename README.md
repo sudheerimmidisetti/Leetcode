@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0189-rotate-array) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/sudheerimmidisetti/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
